@@ -1,0 +1,33 @@
+body{
+    color: white ;
+    background-image: URL("./images/989f582b3d6e6e1a33aa36cacedf9dde.jpg");
+    text-align: center;
+}
+
+h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: URL("./images/pattern.webp");
+}
+h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: black;    
+}
+.product-1 h2{
+   background-color: mediumspringgreen; 
+}
+.product-2 h2{
+    background-color: coral;
+}
+.product-3 h2{
+    background-color: skyblue;
+}
+
+.images{
+    display: block;
+    margin: 0px auto ;
+}
